@@ -69,6 +69,8 @@ public class CalculatorActivity extends AppCompatActivity {
 
     private void calculate() {
         // testing
+
+        //testing commit
         String amount = etLoanAmount.getText().toString();
         String downPayment = etDownPayment.getText().toString();
         String interestRate = etAnnualInterestRate.getText().toString();
